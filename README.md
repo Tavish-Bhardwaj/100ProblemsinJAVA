@@ -1,6 +1,6 @@
 # 100ProblemsinJAVA
 This Github Repository is about solving 100 problems in Java.
-All the Problems are listed as below in the problems section. Read them carefully and get them solve.
+All the Problems are listed as below in the problems section. Read them carefully and get them solved.
 
 #Points for contributors:
 If you want to contribute to this particular repository and make your github profile active, then fork this repo into your local  account and make the changes by making a new folder with your name. That folder should contain all the Problem statement solutions with the Problem statement name as the class name of that Java file.
